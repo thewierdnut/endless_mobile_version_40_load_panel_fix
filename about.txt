@@ -1,0 +1,1 @@
+Fix for endless-mobile version 1.0.5-40 loading panel bug. 

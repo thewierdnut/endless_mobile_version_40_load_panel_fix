@@ -1,0 +1,2 @@
+name "Endless-mobile Version 40 Load Panel Bugfix"
+about "Fix for version 1.0.5-40 loading panel bug."
